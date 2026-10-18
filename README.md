@@ -1,5 +1,8 @@
 # 🕸️ The Amazing Spider-Man | Tradução PT-BR
 
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+![Plataformas](https://img.shields.io/badge/Plataformas-PS3%20%7C%20Xbox%20360%20%7C%20Emuladores-orange)
+
 Fala, pessoal!
 
 Depois de todos esses anos desde o lançamento original, é com um orgulho imenso que venho compartilhar um projeto muito especial com vocês. Esse jogo sempre mereceu uma localização à altura, e agora finalmente chegou a hora de curtir a tradução completa de **The Amazing Spider-Man** para Xbox 360, PlayStation 3 e PS Vita!
