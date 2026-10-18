@@ -35,6 +35,8 @@
             background: var(--bg-dark);
             color: var(--text-main);
             font-family: 'Urbanist', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
         }
 
         h1, h2, h3 {
@@ -322,9 +324,17 @@
             color: white;
         }
 
+        .btn-patch:hover {
+            color: #000;
+        }
+
         .btn-full {
             background: var(--primary);
             color: white;
+        }
+
+        .btn-full:hover {
+            color: #000;
         }
 
         .xbox-btn {
@@ -354,6 +364,7 @@
         .btn-hub:hover {
             background: var(--primary);
             border-color: var(--primary);
+            color: #000;
             transform: scale(1.05);
         }
 
