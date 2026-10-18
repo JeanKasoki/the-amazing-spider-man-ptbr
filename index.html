@@ -332,6 +332,26 @@
             color: black;
         }
 
+        .btn-hub {
+            display: inline-block;
+            margin-top: 30px;
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+            padding: 12px 25px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            transition: 0.3s;
+            backdrop-filter: blur(5px);
+        }
+
+        .btn-hub:hover {
+            background: var(--primary);
+            border-color: var(--primary);
+            transform: scale(1.05);
+        }
+
         /* =========================
            INFO
         ========================= */
@@ -547,10 +567,8 @@
 
 <body>
 
-    <!-- HERO -->
-
+<!-- HERO -->
     <header class="hero">
-
         <div class="hero-overlay">
 
             <p class="intro-text">
@@ -571,8 +589,12 @@
                 para PlayStation 3, PS Vita e Xbox 360.
             </p>
 
-        </div>
+            <!-- COLE O BOTÃO AQUI -->
+            <a href="https://jeankasoki.github.io/" class="btn-hub">
+                <i class="fas fa-gamepad"></i> Ver Todas as Minhas Traduções
+            </a>
 
+        </div>
     </header>
 
     <!-- CONTAINER -->
